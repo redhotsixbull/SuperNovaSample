@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Volumes/무제/SuperNova/spacebook/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rXC/values-en-rXC.xml",
+            "map": [
+                {
+                    "source": "/Users/body/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6691f990639f6da2d53d57b7e70acaed/res/values-en-rXC/values-en-rXC.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "202",
+                        "endOffsets": "253"
+                    }
+                }
+            ]
+        }
+    ]
+}
